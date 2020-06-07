@@ -20,14 +20,18 @@ h1 {
     color: #c02c2c;
     font-family: Alton;
     text-align: left;
+    margin: 40px;
 }
 .content {
     color: grey;
-    font-size: 24px;
+    font-size: 23px;
     font-family: Roboto;
     text-align: justify;
     line-height: 30px;
     font-weight: lighter;
+    margin: 25px 45px;
+    border-bottom: dashed grey 2px;
+    padding-bottom: 5px;
 }
 
 .bold {
@@ -36,16 +40,17 @@ h1 {
 }
 
 .imgDiv {
-    background-color: lightskyblue;
+    background-color: rgb(247, 238, 223);
 }
 
 .light{
-    background-color: lightgreen;
+    background-color: rgb(250, 227, 193);
 }
 
 h3 {
     color: brown;
     font-family: 'Roboto';
+    margin: 50px 40px;
 }
 
 #bioHeader {
@@ -61,4 +66,5 @@ h3 {
 img {
     width: 150px;
     height: 108px;
+    box-shadow: 0 0 2px black;
 }
