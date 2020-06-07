@@ -22,6 +22,15 @@ h1 {
     text-align: left;
     margin: 40px;
 }
+
+#rootHead {
+    position: fixed;
+    top: 25px;
+    left: 25px;
+    margin: 0;
+    background-color: white;
+}
+
 .content {
     color: grey;
     font-size: 23px;
@@ -53,7 +62,9 @@ h3 {
     margin: 50px 40px;
 }
 
+
 #bioHeader {
+    margin-top: 10%;
     color: green;
 }
 
@@ -66,5 +77,7 @@ h3 {
 img {
     width: 150px;
     height: 108px;
-    box-shadow: 0 0 2px black;
+    box-shadow: 3px 3px 7px black;
+    margin: 10px 3.7%;
+    padding: 1px;
 }
