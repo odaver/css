@@ -21,12 +21,31 @@ h1 {
     font-family: Alton;
     text-align: left;
 }
-p {
+.content {
     color: grey;
     font-size: 24px;
     font-family: Roboto;
     text-align: justify;
+    text-transform: lowercase;
+    line-height: 30px;
+    font-weight: lighter;
 }
+
+h3 {
+    color: brown;
+    font-family: 'Roboto';
+}
+
+#bioHeader {
+    color: green;
+}
+
+#skillsHeader {
+    color: lightgreen;
+    font-family: 'Roboto';
+    text-transform: uppercase;
+}
+
 img {
     width: 150px;
     height: 108px;
