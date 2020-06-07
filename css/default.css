@@ -26,9 +26,21 @@ h1 {
     font-size: 24px;
     font-family: Roboto;
     text-align: justify;
-    text-transform: lowercase;
     line-height: 30px;
     font-weight: lighter;
+}
+
+.bold {
+    font-weight: bold;
+
+}
+
+.imgDiv {
+    background-color: lightskyblue;
+}
+
+.light{
+    background-color: lightgreen;
 }
 
 h3 {
